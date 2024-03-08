@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# SQLite3
+*.db
+*.sqlite
+*.sqlite3
